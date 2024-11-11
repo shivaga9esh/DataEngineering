@@ -1,0 +1,14 @@
+item_id,status,created_at,sku,price,qty_ordered,grand_total,product_id,category_name,discount_amount,payment_method,customer_id
+211131,"complete",7/1/2016,"kreations_YI 06L",1950,1,1950,100147443,"Womens Fashion",0,"cod",1
+211133,"canceled",7/1/2016,"kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free",240,1,240,100147444,"Beauty & Grooming",0,"cod",2
+211134,"canceled",7/1/2016,"Ego_UP0017999MR0",2450,1,2450,100147445,"Womens Fashion",0,"cod",3
+211135,"complete",7/1/2016,"kcc_krone deal",360,1,60,100147446,"Beauty & Grooming",300,"cod",4
+211136,"order_refunded",7/1/2016,"BK7010400AG",555,2,1110,100147447,"Soghaat",0,"cod",5
+211137,"canceled",7/1/2016,"UK_Namkino All In One 200 Gms",80,1,80,100147448,"Soghaat",0,"cod",6
+211138,"complete",7/1/2016,"kcc_krone deal",360,1,60,100147449,"Beauty & Grooming",300,"cod",7
+211139,"complete",7/1/2016,"UK_Namkino Mix Nimco 400 Gms",170,1,170,100147450,"Soghaat",0,"cod",6
+211140,"canceled",7/1/2016,"Apple iPhone 6S 64GB",96499,1,96499,100147451,"Mobiles & Tablets",0,"ublcreditcard",8
+211141,"canceled",7/1/2016,"Apple iPhone 6S 64GB",96499,1,96499,100147452,"Mobiles & Tablets",0,"mygateway",8
+211142,"complete",7/1/2016,"GFC_Pedestal Myga Cross Base (Special Guard) 24",5500,1,5500,100147453,"Appliances",0,"cod",9
+211143,"received",7/1/2016,"BK1070200PL",210,1,366,100147454,"Soghaat",0,"cod",10
+211144,"received",7/1/2016,"BK1130200CF",156,1,366,100147454,"Soghaat",0,"cod",10
